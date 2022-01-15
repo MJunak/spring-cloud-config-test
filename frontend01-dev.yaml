@@ -4,4 +4,4 @@ testArray:
   - 321
 
 loginPage:
-  showXYZ: true
+  showXYZ: true 
