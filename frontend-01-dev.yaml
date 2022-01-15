@@ -1,0 +1,7 @@
+test: xyzDE
+testArray:
+  - 123
+  - 321
+
+loginPage:
+  showXYZ: true
